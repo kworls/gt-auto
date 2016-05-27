@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51027" started-at="2016-05-09T10:32:17Z" finished-at="2016-05-09T10:33:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51027" started-at="2016-05-09T10:32:17Z" finished-at="2016-05-09T10:33:08Z">
+      <class name="com.gintong.android.test.gintong">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.gintong.android.test.gintong@6c5ec645]" name="beforeClass" is-config="true" duration-ms="8333" started-at="2016-05-09T18:32:17Z" finished-at="2016-05-09T18:32:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.gintong.android.test.gintong@6c5ec645]" name="beforeMethod" is-config="true" duration-ms="5885" started-at="2016-05-09T18:32:25Z" finished-at="2016-05-09T18:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="gtMessage()[pri:0, instance:com.gintong.android.test.gintong@6c5ec645]" name="gtMessage" duration-ms="35043" started-at="2016-05-09T18:32:31Z" finished-at="2016-05-09T18:33:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gtMessage -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.gintong.android.test.gintong@6c5ec645]" name="afterClass" is-config="true" duration-ms="1754" started-at="2016-05-09T18:33:06Z" finished-at="2016-05-09T18:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.gintong.android.test.gintong -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
